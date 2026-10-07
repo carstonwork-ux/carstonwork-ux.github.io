@@ -1,1 +1,1 @@
-My Public Potfolio
+My Public Portfolio
