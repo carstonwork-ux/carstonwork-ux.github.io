@@ -60,7 +60,7 @@ header, footer {
     background-color: var(--secondary-alt);
 }
 .btn {
-    font-family: var(--font-garamond);
+    font-family: var(--font-oswald);
 }
 .font_Oswald {
     font-family: "Oswald", sans-serif;
